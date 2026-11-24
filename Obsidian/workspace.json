@@ -9,43 +9,45 @@
         "dimension": 83.22147651006712,
         "children": [
           {
-            "id": "801d8e22becf9f80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modulo 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modulo 2"
-            }
-          },
-          {
-            "id": "09ff99b84a1b4178",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-10-19 17.44.29.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-19 17.44.29.excalidraw"
-            }
-          },
-          {
             "id": "5c762587fa53d4c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modulo 2.md",
+                "file": "Parcial 3/Estructuras de control.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modulo 2"
+              "title": "Estructuras de control"
+            }
+          },
+          {
+            "id": "a5b3223a491cb15f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parcial 3/Condicionales if, elif, else.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Condicionales if, elif, else"
+            }
+          },
+          {
+            "id": "38ca0480585c1b37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parcial 3/Estructuras de control.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estructuras de control"
             }
           },
           {
@@ -60,7 +62,8 @@
               "title": "Drawing 2026-10-19 17.44.29.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8be2456872863baa",
@@ -245,14 +248,19 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "801d8e22becf9f80",
+  "active": "a5b3223a491cb15f",
   "lastOpenFiles": [
-    "Vulnerabilidad crítica de PHP.md",
+    "Parcial 3/Estructuras de control.md",
+    "Parcial 3/Condicionales if, elif, else.md",
+    "Captura de pantalla 2026-11-23 184158.png",
+    "Pasted image 20261123182645.png",
     "Modulo 2.md",
-    "Fundamentos de programación/Ensamblador.md",
-    "Fundamentos de programación/Modulo 1.md",
+    "Parcial 3/Declaración de variables.md",
     "Excalidraw/Drawing 2026-10-19 17.44.29.excalidraw.md",
-    "Sin nombre",
+    "Vulnerabilidad crítica de PHP.md",
+    "Parcial 3",
+    "Fundamentos de programación/Modulo 1.md",
+    "Fundamentos de programación/Ensamblador.md",
     "Excalidraw",
     "Fundamentos de programación 2",
     "Fundamentos de programación",
